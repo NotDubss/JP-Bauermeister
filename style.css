@@ -211,4 +211,24 @@ form > input, button {
   font-size: 30px;
 }
 
+/* Footer */
 
+.footer {
+  margin-top: 30px;
+  padding: 30px;
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+.a-ty2 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.a-ty2:hover {
+ text-decoration: underline;
+}
